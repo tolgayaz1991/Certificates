@@ -1,6 +1,6 @@
 # Certificates
 
-## A few certificates that I received during my data science journey.
+## A few certificates that I received during my journey.
 
 ### 1. Data Science Virtual Internship Completion Certificate
 
